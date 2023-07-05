@@ -12,22 +12,22 @@ Saves donor information in the donor table for future reference.
 Displays a list of all registered donors, providing search and filtering options. 
 Allows users to view specific donor details, including donation history and contact information. 
 Retrieves donor data from the donor table.
-####Donate Form
+#### Donate Form
 Enables donors to submit their blood donation information, such as donation date, type, and quantity. 
 Updates the donor's profile with the latest donation information.
-####Patient Form
+#### Patient Form
 Captures patient data, including name, age, blood group, medical history, and contact information. 
 Saves patient information in the patient table for future use
-####View Patient Form
+#### View Patient Form
 Presents a comprehensive list of all registered patients with search and sorting capabilities. 
 Allows users to view specific patient details, facilitating easy access to medical records. 
 Retrieves patient data from the patient table.
-####Dashboard Form
+#### Dashboard Form
 Provides an informative overview of the blood bank's performance. 
 Displays the total count of registered donors, patients, and successful blood donations. 
 Helps staff assess the blood bank's status and track progress.
 
-##How To Use
+## How To Use
 1.Clone the repository to your local machine. 
 2.Open the solution file in Visual Studio. 
 3.Build the project and resolve any dependencies. 
@@ -35,16 +35,16 @@ Helps staff assess the blood bank's status and track progress.
 5.Run the application to access the main dashboard. 
 6.From the dashboard, navigate through different forms (Donor, View Donor, Donate, Patient, View Patient) to manage donor and patient information.
 
-##Database
+## Database
 The Blood Bank Management System utilizes a database named "BloodBankb" to store donor and patient information. The database consists of different tables, such as Donor,Patient,which store their respective data.
 
-##Technologies Used
+## Technologies Used
 C#.NET
 SQL server
 WinForms(Windows Form)
 
-##Contributions
+## Contributions
 Contributions to the Blood Bank Management System project are welcome. If you encounter any issues or have suggestions for improvements, feel free to submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
