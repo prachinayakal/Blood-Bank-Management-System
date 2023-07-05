@@ -1,14 +1,14 @@
 # Blood_Bank_Management_System
 Blood Bank Management System
 
-##Description
+## Description
 The Blood Bank Management System is a C# .NET application designed to efficiently manage blood donation and patient records in a blood bank. The system provides a user-friendly interface with different forms to handle various functionalities. This project aims to streamline the process of collecting and maintaining information related to blood donors and patients, ensuring smooth operations and effective communication between staff members.
 
-##Features
-####Donor Form
+## Features
+#### Donor Form
 Allows users to input donor information, including personal details, blood group, contact information, and donation history. 
 Saves donor information in the donor table for future reference.
-####View Donor Form
+#### View Donor Form
 Displays a list of all registered donors, providing search and filtering options. 
 Allows users to view specific donor details, including donation history and contact information. 
 Retrieves donor data from the donor table.
